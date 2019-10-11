@@ -1,1 +1,7 @@
-
+git push -u origin master
+git pull origin master --allow-unrelated-histories
+git remote add origin https://github.com/KalyanDas777/MyFirstRepo.git
+git commit -m "My first insertion"
+git add TimeDifference.java
+git status
+git init
